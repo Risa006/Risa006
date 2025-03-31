@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Risa006
 - 👀 I’m interested in Python coding
 - 🌱 I’m currently learning something
-- ⚡ Fun fact: Hi
+
 
 <!---
 Risa006/Risa006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
